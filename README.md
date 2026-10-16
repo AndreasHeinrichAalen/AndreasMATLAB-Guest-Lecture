@@ -1,4 +1,4 @@
-# Andreas Beginner MATLAB Image Analysis
+# Andreas Beginner zwei MATLAB Image Analysis
 
 This repository is a small practice project for the *Modern Optronics
 Workflows* guest lectures at Hochschule Aalen.
